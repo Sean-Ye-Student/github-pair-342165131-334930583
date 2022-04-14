@@ -4,3 +4,4 @@ if hungry == "yes":
   print("drink some milktea")
 else:
   print("do your homework")
+work
